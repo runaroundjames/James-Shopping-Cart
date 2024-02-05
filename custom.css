@@ -1,0 +1,64 @@
+.table td,
+.table th {
+    white-space: nowrap;
+}
+
+.table thead th {
+    width: 25%;
+}
+
+#itemnumber {
+    width: 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: gray;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+    background-color: teal;
+}
+
+.btn:hover {
+    color: black;
+}
+
+tr {
+    border-bottom: 2px dashed teal;
+}
+
+input {
+    background-color: lightgray;
+    width: 75px;
+}
+
+.container {
+    border: 2px solid black;
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.sub {
+    text-align: right;
+}
+
+.subtotal {
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
+}
+
+#totalCart {
+    font-weight: bold;
+}
